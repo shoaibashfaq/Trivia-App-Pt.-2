@@ -2,7 +2,14 @@
 
 Submitted by: **Muhammed Ashfaq**
 
-<div style="position: relative; padding-bottom: 217.8362573099415%; height: 0;"><iframe src="https://www.loom.com/embed/e55dc262789c4ba5928727279d000956?sid=89927cf8-69b6-4abf-9c11-90a04f7a9b8e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/e55dc262789c4ba5928727279d000956">
+      <p>ChatGPT - 17 March 2024 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/e55dc262789c4ba5928727279d000956">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e55dc262789c4ba5928727279d000956-with-play.gif">
+    </a>
+  </div>
 
 Time spent: **X** hours spent in total
 
